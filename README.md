@@ -13,9 +13,9 @@
 | Metric | Count |
 |--------|-------|
 | Total Companies Researched | ~90 |
-| Passed (A/B Band) | 19–25 |
+| Passed (A/B Band) | 25 |
 | Rejected / Disqualified | ~65–70 |
-| Yield Rate | ~25–28% |
+| Yield Rate | ~28% |
 
 ---
 
@@ -48,8 +48,12 @@ Ahmedabad and its satellite industrial zones (Vatva GIDC, Naroda GIDC, Changodar
 | Company Websites | Products, certifications, R&D, news |
 | Naukri / LinkedIn Jobs | Hiring signals (C6) |
 | Google News | Expansion announcements, certifications |
-[ I ALSO USE AI TOOLS - CLAUDE,CHATGPT,KIMI,COPILOT,GOOGLE GEMNI ETC ---- I USE THEM AS A CLEANING,TRANSFORMING PURPOSE]
 
+#Tools Used-
+ I addition to manual resreach ,i used ai tools-
+  -claude,chatgpt,gemini,kiwi and copilot etc.
+  - i used them for cleaning and structuring raw data.
+  - transforming data and cross checking.
 ---
 
 ## Research Process — Step by Step
@@ -63,8 +67,8 @@ Search queries used:
 - `"precision engineering" Ahmedabad CNC`
 - IndiaMart category: Specialty Chemicals → Gujarat → Filter by Manufacturer
 
-  #NOTE - I also use a simple rule ( ₹50-500 Cr Revenue, >20% Growth, >15% EBITDA, 100% Unlisted Private) not all
-          company fullfil this but almost was.
+  #NOTE - I also use a simple rule ( ₹50-500 Cr Revenue, >20% Growth, >15% EBITDA, 100% Unlisted Private)
+  - not all companies had complete finance data at the stage .i use this as a directional filtering only .
   -I use this for level 1 filteration .
 
 ### Step 2: Gate Check (E1 + E2)
